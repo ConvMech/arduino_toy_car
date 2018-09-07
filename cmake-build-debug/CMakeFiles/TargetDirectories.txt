@@ -1,0 +1,3 @@
+/home/tommy/CLionProjects/Pure_C/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tommy/CLionProjects/Pure_C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tommy/CLionProjects/Pure_C/cmake-build-debug/CMakeFiles/Pure_C.dir
